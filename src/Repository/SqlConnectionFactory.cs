@@ -6,7 +6,7 @@ namespace Gama.RedeSocial.Infrastructure.Persistence.Repository
     {
         public static SqlConnection Create()
         {
-            return new SqlConnection(@"Data Source=(localdb)\mssqllocaldb;Integrated Security=True;Database=GAMA_REDE_SOCIAL");
+            return new SqlConnection(@"Data Source=(localdb)\mssqllocaldb;Integrated Security=True;Database=Avels");
         }
     }
 }

@@ -6,10 +6,13 @@ namespace Gama.RedeSocial.Domain.Entities
     {
         public Invite()
         {
+            SenderId = new Guid();
             Sender = new User();
 
+            ReceiverId = new Guid();
             Receiver = new User();
 
+            InviteStatusId = new Guid();
             InviteStatus = new InviteStatus();
         }
 
