@@ -1,0 +1,11 @@
+C:\Projetos\Gama.RedeSocial\src\Repository\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Infrastructure.Persistence.Repository.deps.json
+C:\Projetos\Gama.RedeSocial\src\Repository\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Infrastructure.Persistence.Repository.dll
+C:\Projetos\Gama.RedeSocial\src\Repository\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Infrastructure.Persistence.Repository.pdb
+C:\Projetos\Gama.RedeSocial\src\Repository\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Domain.dll
+C:\Projetos\Gama.RedeSocial\src\Repository\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Domain.pdb
+C:\Projetos\Gama.RedeSocial\src\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Projetos\Gama.RedeSocial\src\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Projetos\Gama.RedeSocial\src\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Projetos\Gama.RedeSocial\src\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Projetos\Gama.RedeSocial\src\Repository\obj\Debug\netcoreapp3.1\Gama.RedeSocial.Infrastructure.Persistence.Repository.dll
+C:\Projetos\Gama.RedeSocial\src\Repository\obj\Debug\netcoreapp3.1\Gama.RedeSocial.Infrastructure.Persistence.Repository.pdb

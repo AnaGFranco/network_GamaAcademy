@@ -1,0 +1,11 @@
+C:\Projetos\Gama.RedeSocial\src\Application\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Application.deps.json
+C:\Projetos\Gama.RedeSocial\src\Application\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Application.dll
+C:\Projetos\Gama.RedeSocial\src\Application\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Application.pdb
+C:\Projetos\Gama.RedeSocial\src\Application\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Domain.dll
+C:\Projetos\Gama.RedeSocial\src\Application\bin\Debug\netcoreapp3.1\Gama.RedeSocial.Domain.pdb
+C:\Projetos\Gama.RedeSocial\src\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Projetos\Gama.RedeSocial\src\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Projetos\Gama.RedeSocial\src\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Projetos\Gama.RedeSocial\src\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Projetos\Gama.RedeSocial\src\Application\obj\Debug\netcoreapp3.1\Gama.RedeSocial.Application.dll
+C:\Projetos\Gama.RedeSocial\src\Application\obj\Debug\netcoreapp3.1\Gama.RedeSocial.Application.pdb

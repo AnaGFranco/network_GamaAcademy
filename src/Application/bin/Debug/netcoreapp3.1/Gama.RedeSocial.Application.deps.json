@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gama.RedeSocial.Application/1.0.0": {
+        "dependencies": {
+          "Gama.RedeSocial.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Gama.RedeSocial.Application.dll": {}
+        }
+      },
+      "Gama.RedeSocial.Domain/1.0.0": {
+        "runtime": {
+          "Gama.RedeSocial.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gama.RedeSocial.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gama.RedeSocial.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
